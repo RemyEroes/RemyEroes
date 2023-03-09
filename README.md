@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🧑🏽‍💻 I’m currently student in IT at EPSI Montpellier, France<br>🔍 I’m interrested in cybersecurity and creative developing<br>🌱 I’m currently learning Javascript, Python, C++<br>💬 Contact me: <br>⚡ Fun fact: Snowboarding🏂 in better than skiing⛷, Period!
+🧑🏽‍💻 I’m currently student in IT at EPSI Montpellier, France<br*2>🔍 I’m interrested in cybersecurity and creative developing<br*2>🌱 I’m currently learning Javascript, Python, C++<br*2>💬 Contact me: <br*2>⚡ Fun fact: Snowboarding🏂 is better than skiing⛷, Period!
 
 
 ## 🌐 Socials:
