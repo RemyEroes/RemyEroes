@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🧑🏽‍💻 I’m currently working as a freelance Web Developper in Dublin, Ireland<br>🔍 I’m interrested creative developing<br>🌱 I’m currently learning NextJS X Framer-Motion <br>💬 Contact me: contact@remy-eroes.site <br>⚡ Fun fact: Snowboarding🏂 is better than skiing⛷, Period!
+🧑🏽‍💻 I’m currently working as a freelance Web Developper in Oslo, Norway<br>🔍 I’m interrested in creative developement<br>🌱 I’m currently learning NextJS X Framer-Motion <br>💬 Contact me: contact@remy-eroes.site <br>⚡ Fun fact: Snowboarding🏂 is better than skiing⛷, Period!
 
 ### 📲 https://remy-eroes.site
 
